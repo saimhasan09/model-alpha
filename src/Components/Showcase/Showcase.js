@@ -43,7 +43,7 @@ const Showcase = () => {
                 }
             </div>
             <div className="ChoiseList-container">
-                <ChoiseList ChoiseList={choiseList}></ChoiseList>
+                <ChoiseList  ChoiseList={choiseList}></ChoiseList>
 
 
             </div>
