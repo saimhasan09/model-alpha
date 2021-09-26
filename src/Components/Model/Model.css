@@ -29,3 +29,17 @@
     font-weight:bolder;
     color: rgb(230, 225, 225)
 }
+
+.social-icon{
+    font-size:35px;
+}
+
+.icon-container{
+    display: flex;
+    justify-content:space-between;
+    margin: 5px 70px 5px 70px;
+
+}
+.social-icon:hover{
+    color:#846bb9;
+}

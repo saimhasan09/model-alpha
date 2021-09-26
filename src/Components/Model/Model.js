@@ -25,7 +25,11 @@ const Model = (props) => {
                 <button
                     onClick={() => props.handleAddToCart(props.model)}
                     className="btn-regular"
-                > <i class="fas fa-plus"></i> Add to List</button>
+                > <i class="fas fa-plus"></i> Add to List</button><br />
+                <div className="icon-container">
+                <i class="fas fa-globe social-icon" ></i>
+                <i class="fab fa-linkedin social-icon"></i>
+                </div>
 
             </div>
         </div>
