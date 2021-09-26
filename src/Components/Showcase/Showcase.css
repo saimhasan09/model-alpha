@@ -1,0 +1,17 @@
+
+
+.showcase-container{
+    display:flex;
+    justify-content: space-between;
+     
+}
+
+.model-container{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr) ;
+    margin:10px;
+    margin-left: 15px;
+}
+.ChoiseList-container{
+    margin-right: 50px;
+}

@@ -1,0 +1,35 @@
+
+.header{
+    text-align: center;
+    line-height:20px;
+    
+}
+.brand-name{
+    font-size:50px;
+    color: rgb(92, 87, 160);
+}
+
+.logo{
+    height: 60px;
+    margin: 15px;
+}
+.budget{
+    font-size:20px;
+}
+
+.header nav{
+    background-color: #2C3E50;
+    line-height: 40px;
+}
+
+.header nav a{
+    text-decoration: none;
+    color:rgb(235, 233, 233);
+    margin-right: 20px;
+    padding: 5px;
+    font-size:20px;
+}
+
+.header nav a:hover{
+    background-color: rgb(122, 120, 120);
+}

@@ -1,0 +1,31 @@
+.model{
+    margin: 10px;
+    background-color:#D8D0E4;
+    text-align:center;
+    width:300px;
+    border: 2px solid rgb(87, 76, 187);
+    border-radius:17px;
+    box-shadow: 5px 5px 8px rgba(192, 191, 191, 0.774);
+    line-height: 20px;
+}
+
+
+.model img{
+    width:200px;
+    height:200px;
+    border-radius:20px;
+    margin-top: 5px;
+}
+
+.btn-regular{
+    /* background-color: #27AE60; */
+    background-color: #846bb9;
+    /* background-color: #38495a; */
+    padding: 15px 30px;
+    border-radius:8px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size:15px;
+    font-weight:bolder;
+    color: rgb(230, 225, 225)
+}
